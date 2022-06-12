@@ -1,0 +1,12 @@
+INSERT INTO KEYWORD values ('나이키');
+INSERT INTO KEYWORD values ('나이키 골프');
+INSERT INTO KEYWORD values ('운동화 나이키');
+INSERT INTO KEYWORD values ('브랜드나이키');
+INSERT INTO KEYWORD values ('반다나');
+INSERT INTO KEYWORD values ('아디다스');
+INSERT INTO KEYWORD values ('아디다스 운동화');
+INSERT INTO KEYWORD values ('신발 아디다스');
+INSERT INTO KEYWORD values ('퓨마');
+INSERT INTO KEYWORD values ('퓨마 운동화');
+INSERT INTO KEYWORD values ('퓨마 바지');
+INSERT INTO KEYWORD values ('스포츠');
